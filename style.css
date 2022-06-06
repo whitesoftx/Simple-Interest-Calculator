@@ -1,4 +1,41 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+h1{
+    color:grey;
+    font-family:verdana;
+}
 
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+   
 
+    
+}
+
+.highlighResultNumber
+{
+    background-color: yellow;
+}
+
+button {
+   border: 1px solid grey;
+    height: 35px;
+    width: 150px;
+    border-radius: 3px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+ input {
+     height: 20px;
+ }
+select {
+    height: 25px;
+}
