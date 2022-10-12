@@ -15,9 +15,6 @@ h1{
     padding: 20px;
     border-radius: 25px;
     margin: auto;
-   
-
-    
 }
 
 .highlighResultNumber
@@ -33,9 +30,11 @@ button {
     margin-top: 15px;
     cursor: pointer;
 }
+
  input {
      height: 20px;
  }
+ 
 select {
     height: 25px;
 }
